@@ -4,4 +4,6 @@
 Hello How are you?
 
 
-hu maru kaam nai karu
+Bhai tumSign Karoge ya nai?
+
+Jao tum bhad me
